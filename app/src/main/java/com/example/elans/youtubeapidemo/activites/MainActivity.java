@@ -1,11 +1,11 @@
-package com.example.elans.youtubeapidemo.Activities;
+package com.example.elans.youtubeapidemo.activites;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.example.elans.youtubeapidemo.Fragements.ListFragment;
+import com.example.elans.youtubeapidemo.fragments.ListFragment;
 import com.example.elans.youtubeapidemo.R;
 
 public class MainActivity extends AppCompatActivity {
